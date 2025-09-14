@@ -10,7 +10,7 @@ He received his master's degree from Xi’an Jiaotong University, advised by [Pr
 ## Interests
 
 - **Networking Systems**
-- **L7 load balancer**
+- **L7 Load Balancer**
 
 <!-- ## News
 
