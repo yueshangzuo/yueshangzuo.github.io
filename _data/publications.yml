@@ -1,7 +1,7 @@
 main:
 
   - title: "Zephyr: A Zero-loss and Transparent TLS Connection Migration Framework"
-    authors: Jiazhen Xu, Chengcheng Yu, <strong>Yueshang Zuo</strong>, Enge Song, Shaokai Zhang, Jiangu Zhao, Tian Pan, Yang Song, Xing Li, Rong Wen, Chengkun Wei, Shunmin Zhu, and Wenzhi Chen
+    authors: Jiazhen Xu, Chengcheng Yu, <strong>Yueshang Zuo*</strong>, Enge Song, Shaokai Zhang, Jiangu Zhao, Tian Pan, Yang Song, Xing Li, Rong Wen, Chengkun Wei, Shunmin Zhu, and Wenzhi Chen
     conference_short: APNet
     conference: APNet'26
 
