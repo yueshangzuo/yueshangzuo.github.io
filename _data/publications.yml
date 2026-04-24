@@ -1,5 +1,10 @@
 main:
 
+  - title: "Zephyr: A Zero-loss and Transparent TLS Connection Migration Framework"
+    authors: Jiazhen Xu, Chengcheng Yu, <strong>Yueshang Zuo</strong>, Enge Song, Shaokai Zhang, Jiangu Zhao, Tian Pan, Yang Song, Xing Li, Rong Wen, Chengkun Wei, Shunmin Zhu, and Wenzhi Chen
+    conference_short: APNet
+    conference: APNet'26
+
   - title: "Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification"
     authors: Tian Pan*, Enge Song*, <strong>Yueshang Zuo*</strong> (*co-first authors), Shaokai Zhang, Yang Song, Jiangu Zhao, Wengang Hou, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Ye Yang, Jiao Zhang, Tao Huang, Biao Lyu, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu
     conference_short: SIGCOMM
