@@ -1,0 +1,9 @@
+@inproceedings{xu2026zephyr,
+  title     = {Zephyr: A Zero-loss and Transparent TLS Connection Migration Framework},
+  author    = {Xu, Jiazhen and Yu, Chengcheng and Zuo, Yueshang and Song, Enge and Zhang, Shaokai and Zhao, Jiangu and Pan, Tian and Song, Yang and Li, Xing and Wen, Rong and Wei, Chengkun and Zhu, Shunmin and Chen, Wenzhi},
+  booktitle = {Proceedings of the 10th Asia-Pacific Workshop on Networking (APNet '26)},
+  publisher = {ACM},
+  year      = {2026},
+  pages     = {225--231},
+  doi       = {10.1145/3820441.3820474}
+}

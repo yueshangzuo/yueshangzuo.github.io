@@ -1,0 +1,9 @@
+@inproceedings{pan2025hermes,
+  title     = {Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification},
+  author    = {Pan, Tian and Song, Enge and Zuo, Yueshang and Zhang, Shaokai and Song, Yang and Zhao, Jiangu and Hou, Wengang and Lu, Jianyuan and Sun, Xiaoqing and Zhang, Shize and Yang, Ye and Zhang, Jiao and Huang, Tao and Lyu, Biao and Li, Xing and Wen, Rong and Zong, Zhigang and Zhu, Shunmin},
+  booktitle = {Proceedings of the ACM SIGCOMM 2025 Conference (SIGCOMM '25)},
+  publisher = {ACM},
+  year      = {2025},
+  pages     = {363--380},
+  doi       = {10.1145/3718958.3750469}
+}
