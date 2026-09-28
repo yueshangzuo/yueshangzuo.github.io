@@ -1,21 +1,20 @@
 # Basic Information 
 title: Yueshang Zuo
-position: Engineer
+position: Infrastructure Engineer
 affiliation: Alibaba Cloud
 email: zuoyueshang.zys(at)alibaba-inc.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: zuoyueshang yueshangzuo
-description: The homepage of yueshangzuo.
-canonical: https://yueshangzuo.github.io/
+description: Yueshang Zuo, infrastructure engineer at Alibaba Cloud, working on L7 load balancers and cloud networking.
+canonical: https://www.yueshangzuo.com/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=TrpBJLcAAAAJ
 dblp: https://dblp.org/pid/323/8012.html
 orcid: https://orcid.org/0009-0005-3450-8376
-# cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/yueshangzuo
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
@@ -57,4 +56,3 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/
