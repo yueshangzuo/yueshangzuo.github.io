@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Yueshang Zuo is an infrastructure engineer at Alibaba Cloud, working on cloud networking.  
+Yueshang Zuo is an infrastructure engineer in the Application Networking team at Alibaba Cloud, working on the research and development of Layer-7 load balancers. He is interested in high-performance cloud networking systems.  
 He received his master's degree from Xi’an Jiaotong University, advised by [Professor Peng Zhang](https://xjtu-netverify.github.io/people/pzhang/).
 
 zuoyueshang.zys(at)alibaba-inc.com
