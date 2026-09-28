@@ -10,7 +10,7 @@ He received his master's degree from Xi’an Jiaotong University, advised by [Pr
 ## Interests
 
 - **Networking Systems**: network stack (TCP/TLS/QUIC), eBPF, userspace I/O
-- **L7 Load Balancer**: Nginx, Envoy, TLS
+- **L7 Load Balancer**: Nginx, Envoy
 
 <!-- ## News
 
